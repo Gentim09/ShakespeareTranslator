@@ -1,7 +1,7 @@
 ## ShakespeareTranslator API 
 
 This repository contains an example API written in C# and ASP.NET Core 3.1.
-The purpose of this API is to get the Shakespearean pokemon description by passing a Pokemon Name and translation of its description is done using [Fun Translation Api](https://funtranslations.com/shakespeare).
+The purpose of this API is to get the Shakespearean pokemon description by passing a Pokemon Name. The translation is done by using [Fun Translation Api](https://funtranslations.com/shakespeare).
 
 ```markdown
 GET /pokemon/{pokemonName}
@@ -15,10 +15,10 @@ GET /pokemon/{pokemonName}
 ```
 ## Getting Started
 Get you a copy of the project and run it on your local machine for development and testing purposes.
-This API uses [Swagger](https://swagger.io/), for easily test via browser
+This API uses [Swagger](https://swagger.io/), for easily test via the browser.
 ## Testing it out
 
-1. Dowload this repo into a working directory.
+1. Dowload this repository into a working directory.
 2. Open the project in Visual Studio. 
 3. You can download and install [.Net Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1) 
 3. Build the solution using Visual Studio. 
